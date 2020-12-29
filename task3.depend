@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606245856 source:c:\users\Надя\desktop\inf\task3\main.cpp
+	<iostream>
+	<vector>
+
+1609203733 source:c:\users\79217\desktop\Инфа\task3-main\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+
